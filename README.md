@@ -16,9 +16,9 @@ O objetivo deste projeto é aprimorar habilidades em **ciência de dados** enqua
 ---
 
 ## 📷 Prévia do Projeto
-Adicione aqui imagens mostrando a interface ou saída do programa. Para inserir imagens no README, faça o upload das imagens na pasta do repositório e utilize este formato:
 
 ![Projeto em funcionamento](https://github.com/user-attachments/assets/c6f01e94-b348-453c-99b6-ca968519915a)
+
 
 ![Código + Projeto rodando](https://github.com/user-attachments/assets/82dea3b5-a0a9-4f7d-86d0-c195bffd4a5a)
 
